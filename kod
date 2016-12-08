@@ -3,8 +3,8 @@ int main()
 {
     int ile;
     
-    std::cout << "Ile razy wypisac napis? ";
-    std::cin >> ile;
+    cout << "Ile razy wypisac napisy? ";
+    cin >> ile;
     if( ile > 0 )
     do
     {
