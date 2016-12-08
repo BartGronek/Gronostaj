@@ -1,2 +1,3 @@
 # Gronostaj
 Dla ASK
+Zmniana!
